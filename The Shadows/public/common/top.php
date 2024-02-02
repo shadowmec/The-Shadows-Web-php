@@ -24,7 +24,3 @@
                 javascript development.
             </p>
 
-        </main>
-
-    </body>
-</html>  
